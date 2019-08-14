@@ -5,5 +5,3 @@ def parrot(noise = "Squawk!")
 "Pretty bird!"
 return parrot
 end
-
-
