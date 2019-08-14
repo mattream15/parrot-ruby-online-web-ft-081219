@@ -7,4 +7,3 @@ end
 
 "Pretty bird!"
 end
-
